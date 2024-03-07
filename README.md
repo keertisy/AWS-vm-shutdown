@@ -1,0 +1,1 @@
+## Python script that retrieves a list of running EC2 instances, filters instances with the 'shutdown' tag, and then stops those instances. It uses IAM access key and secret key for authentication.
